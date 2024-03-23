@@ -11,7 +11,7 @@ WriteLine("Hello, World45!");
 WriteLine("Hello, World21213135!");
 WriteLine("Hello, World45!");
 
-double CalculateAverage(int[] inst)
+static double CalculateAverage(int[] inst)
 {
     return inst.Average();
 }
